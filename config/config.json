@@ -14,9 +14,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "jusapi",
-    "password": "C2wCp4kxMDXRS8gBpqD7d90W21kzXdma",
-    "database": "db_api_rest_yxp2",
+    "username": "natadeepdb",
+    "password": "oFq2Pg3WbE0meLv3HPRLyL4eODjSOIoa",
+    "database": "db_api_rest_gokh",
     "host": "oregon-postgres.render.com",
     "dialect": "postgres",
     "dialectOptions": {
